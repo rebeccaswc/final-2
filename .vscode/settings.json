@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/rebecca/Downloads/jlayer-1.0.1.jar",
+        "/Users/rebecca/Downloads/jlayer-1.0.1.4.jar"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}
